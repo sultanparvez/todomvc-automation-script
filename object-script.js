@@ -1,7 +1,7 @@
 var autodo = new function (){
 
     this.clickItem = function(item){
-item.click();
+    item.click();
 }
 this.toggleAll = function (){
 document.querySelector("#toggle-all").click();
